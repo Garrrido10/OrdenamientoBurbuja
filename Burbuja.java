@@ -1,6 +1,3 @@
-package Metodos_de_ordenamiento;
-
-/** Variante existente: comparaciones adyacentes, limite decreciente y salida temprana. */
 public class Burbuja {
     public static void ordenar(int[] arreglo) {
         int n = arreglo.length;
