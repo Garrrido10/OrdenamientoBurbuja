@@ -15,4 +15,4 @@ Las siguientes instrucciones te permitirán clonar, compilar y ejecutar este pro
 ### 1. Clonar el repositorio
 Abre tu terminal o consola de comandos y ejecuta:
 ```bash
-git clone [https://github.com/Garrrido10/](https://github.com/Garrrido10/)[NOMBRE_DEL_REPOSITORIO].git
+git clone [https://github.com/Garrrido10/](https://github.com/Garrrido10/)[OrdenamientoBurbuja].git
